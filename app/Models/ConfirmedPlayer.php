@@ -12,4 +12,6 @@ class ConfirmedPlayer extends Model
     protected $table = 'confirmed_players';
     
     protected $fillable = ['game_id', 'player_id'];
+
+    public $incrementing = false;
 }
