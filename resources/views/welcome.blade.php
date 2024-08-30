@@ -39,7 +39,7 @@
                                                 &nbsp;&nbsp; - Criei os end points necessários para realizar as funções solicitadas.
                                                 <br>
                                                 <br>
-                                                &nbsp;&nbsp; - Para acessar as APIs, <a link target="_blank" href="https://api.postman.com/collections/31444958-198d87eb-77e6-4587-9bce-96a6c0a32854?access_key=PMAT-01J6HPPC73VKH0YR2VTJG8NDER" download>CLIQUE AQUI</a> para baixar a collection do Postman e realizar as chamadas disponíveis.
+                                                &nbsp;&nbsp; - Para acessar as APIs, <a link target="_blank" download>CLIQUE AQUI</a> para baixar a collection do Postman e realizar as chamadas disponíveis.
                                                 <br>
                                                 <br>
                                                 &nbsp;&nbsp; - Dentre as APIs estão as funções padrões de um CRUD para jogadores e partidas (a palavra match é reservada do PHP, por isso utilizei game).
